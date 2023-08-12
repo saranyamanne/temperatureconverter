@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(180, 216, 225);
+}
+h1{
+    text-align: center;
+    color: rgb(7, 9, 11);
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    color: rgb(4, 6, 8);
+}
+form{
+    text-align: center;
+}
+
+.box{
+    margin: 500px 500px 500px 500px;
+    background-color: rgb(211, 172, 231);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    box-sizing: border-box;
+    margin: 5vw 20vw;
+    border-width: 100%;
+    border-color: black;
+    border-radius: 6px;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+form input,select{
+    padding: 10px 15px;
+    border-radius: 6px;
+    
+}
+form button{
+    border-color: rgb(22, 5, 37);
+    margin-top: 10px;
+    padding: 10px 15px;
+    border-radius: 6px;
+}
